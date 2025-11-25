@@ -1,6 +1,8 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="/mnt/data/channels4_banner.jpg" alt="Michael Peters Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/michaelpeters-dev/michaelpeters-dev/main/Named_Banner.jpg" 
+       alt="Michael Peters Banner" 
+       width="100%" />
 </p>
 
 ## About Me
