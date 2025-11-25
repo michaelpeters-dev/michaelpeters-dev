@@ -1,13 +1,7 @@
-<!-- Typing animation banner -->
-<h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Michael+Peters" 
-  />
-</h1>
-
-<p align="center"><strong>Georgia Institute of Technology • Full-Stack Software Engineer • Entrepreneur & Mathlete</strong></p>
-
----
+<!-- Top Banner -->
+<p align="center">
+  <img src="/mnt/data/channels4_banner.jpg" alt="Michael Peters Banner" width="100%" />
+</p>
 
 ## About Me
 
