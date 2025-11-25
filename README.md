@@ -1,3 +1,10 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/michaelpeters-dev/michaelpeters-dev/main/Named_Banner.jpg" 
+       alt="Michael Peters Banner" 
+       width="100%" />
+</p>
+
 ## About Me
 
 I'm a fullstack developer studying at the Georgia Institute of Technology who loves building tools to solve hard, intractable problems, ultimately creating a nett real-world positive.  
@@ -47,10 +54,3 @@ Whether it's a hackathon concoction, a startup MVP, or a project born out of pur
 </div>
 
 ---
-
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/michaelpeters-dev/michaelpeters-dev/main/Named_Banner.jpg" 
-       alt="Michael Peters Banner" 
-       width="100%" />
-</p>
