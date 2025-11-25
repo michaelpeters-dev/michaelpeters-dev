@@ -8,6 +8,7 @@
 ## About Me
 
 I'm a fullstack developer studying at the Georgia Institute of Technology who loves building tools to solve hard, intractable problems, ultimately creating a nett real-world positive.  
+
 Whether it's a hackathon concoction, a startup MVP, or a project born out of pure interest and curiosity, I enjoy exploring difficult problems and designing elegant solutions.
 
 ---
