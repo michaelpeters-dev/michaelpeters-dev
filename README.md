@@ -5,6 +5,14 @@
        width="100%" />
 </p>
 
+## About Me
+
+I'm a fullstack developer studying at the Georgia Institute of Technology who loves building tools to solve hard, intractable problems, ultimately creating a nett real-world positive.  
+
+Whether it's a hackathon concoction, a startup MVP, or a project born out of pure interest and curiosity, I enjoy exploring difficult problems and designing elegant solutions.
+
+---
+
 ## Languages
 
 <div align="center">
@@ -33,14 +41,6 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="28"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="28"/>
 </div>
-
----
-
-## About Me
-
-I'm a fullstack developer studying at the Georgia Institute of Technology who loves building tools to solve hard, intractable problems, ultimately creating a nett real-world positive.  
-
-Whether it's a hackathon concoction, a startup MVP, or a project born out of pure interest and curiosity, I enjoy exploring difficult problems and designing elegant solutions.
 
 ---
 
