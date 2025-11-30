@@ -5,26 +5,6 @@
        width="100%" />
 </p>
 
-## About Me
-
-I'm a fullstack developer studying at the Georgia Institute of Technology who loves building tools to solve hard, intractable problems, ultimately creating a nett real-world positive.  
-
-Whether it's a hackathon concoction, a startup MVP, or a project born out of pure interest and curiosity, I enjoy exploring difficult problems and designing elegant solutions.
-
----
-
-## Connect With Me
-
-<div align="center">
-  <a href="https://www.instagram.com/michael_peters_10/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28"/></a>
-  <a href="https://www.youtube.com/@MichaelPeters-l4z"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28"/></a>
-  <a href="https://discord.com/users/peters0085_82034"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="28"/></a>
-  <a href="mailto:michaelcpeters115@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28"/></a>
-  <a href="https://www.linkedin.com/in/michael-peters-b497912a3/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="28"/></a>
-</div>
-
----
-
 ## Languages
 
 <div align="center">
@@ -55,3 +35,21 @@ Whether it's a hackathon concoction, a startup MVP, or a project born out of pur
 </div>
 
 ---
+
+## About Me
+
+I'm a fullstack developer studying at the Georgia Institute of Technology who loves building tools to solve hard, intractable problems, ultimately creating a nett real-world positive.  
+
+Whether it's a hackathon concoction, a startup MVP, or a project born out of pure interest and curiosity, I enjoy exploring difficult problems and designing elegant solutions.
+
+---
+
+## Connect With Me
+
+<div align="center">
+  <a href="https://www.instagram.com/michael_peters_10/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28"/></a>
+  <a href="https://www.youtube.com/@MichaelPeters-l4z"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28"/></a>
+  <a href="https://discord.com/users/peters0085_82034"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="28"/></a>
+  <a href="mailto:michaelcpeters115@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28"/></a>
+  <a href="https://www.linkedin.com/in/michael-peters-b497912a3/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="28"/></a>
+</div>
