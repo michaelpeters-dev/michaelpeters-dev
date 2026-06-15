@@ -7,7 +7,7 @@
 
 ## About Me
 
-<<<>>>
+[REDACTED]
 
 ---
 
