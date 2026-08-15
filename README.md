@@ -77,13 +77,3 @@ Vision Pro accessibility app. Mostly found in Neovim.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
----
-
-## Connect With Me
-
-<div align="center">
-  <a href="mailto:michaelcpeters115@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28"/></a>
-  <a href="https://www.linkedin.com/in/michael-peters-b497912a3/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="28"/></a>
-  <a href="https://michaelpeters.tech"><img src="https://img.shields.io/static/v1?message=Website&logo=googlechrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="28"/></a>
-</div>
