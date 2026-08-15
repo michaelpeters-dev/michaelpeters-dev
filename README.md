@@ -1,8 +1,9 @@
-## About Me
-
-CS + Mathematics @ Georgia Tech. I work across low-level systems, applied ML, and full-stack
-web — recently an x86 bootloader in assembly, an ML platform for financial forecasting, and a
-Vision Pro accessibility app. Mostly found in Neovim.
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/michaelpeters-dev/michaelpeters-dev/main/Named_Banner.jpg"
+       alt="Michael Peters Banner"
+       width="100%" />
+</p>
 
 ---
 
@@ -37,22 +38,6 @@ Vision Pro accessibility app. Mostly found in Neovim.
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="28"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="28"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" height="28"/>
-</div>
-
----
-
-## Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| **[LedgerAI](https://github.com/michaelpeters-dev/Riskify)** · [demo](https://youtu.be/JAuonCzHhUY) | ML platform for financial forecasting and anomaly detection | TypeScript, React, Node |
-| **[Context-Aware Object Reader](https://github.com/michaelpeters-dev/Hack-Harvard)** | Vision Pro accessibility app with iOS companion and remote-helper console · HackHarvard 2025 | Swift, RealityKit, WebRTC |
-| **[YuCode](https://github.com/michaelpeters-dev/HackMIT_2025)** | Interactive coding-education platform · HackMIT 2025 | TypeScript, Next.js |
-| **[StageZeroOS](https://github.com/michaelpeters-dev/StageZeroOS)** | Minimal x86 OS covering the bootloader and early startup | Assembly |
-| **[nvimconfig](https://github.com/michaelpeters-dev/nvimconfig)** | My Neovim and Alacritty configuration | Lua |
-
 </div>
 
 ---
