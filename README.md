@@ -1,54 +1,30 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/michaelpeters-dev/michaelpeters-dev/main/Named_Banner.jpg" 
-       alt="Michael Peters Banner" 
-       width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <img src="assets/light.svg" width="100%" alt="MICHAEL(7): michael peters, systems engineer, cs + math at georgia tech. Builds query engines, compilers, order books and bootloaders, mostly in Rust and C++.">
+</picture>
 
-## About Me
+### Work
 
-[REDACTED]
+| | | |
+|:--|:--|:--|
+| **[Ditto](https://github.com/getditto)** | Software Engineer Intern | Multi-collection `UNION` for DQL, the query language of Ditto's offline-first sync platform. Wrote a Rust expression interpreter from scratch (lexer, parser, type checker, evaluator) and shipped it to iOS, Android and Web through UniFFI and WebAssembly, replacing three per-platform implementations. |
+| **[TGT Capital](https://github.com/gt-quant)** | Quantitative Developer | SIMD flat and ring L2 order books in Rust: update latency 121 → 103 µs at 50 levels and 1,660 → 870 µs at 200. Async exchange feed listeners and a Rust CatBoost inference pipeline on live book state. |
+| **[Tinker Lab](https://github.com/gt-tinker)** | Quantum Compilers Researcher | MLIR/LLVM work on the [Qwerty](https://github.com/gt-tinker/qwerty) compiler (CGO '25): a two's-complement subtraction op ([#57](https://github.com/gt-tinker/qwerty/pull/57)) and modular multiplication circuit synthesis ([#59](https://github.com/gt-tinker/qwerty/pull/59)), both merged upstream. |
 
----
+### Projects
 
-## Languages
+- **[StageZeroOS](https://github.com/michaelpeters-dev/StageZeroOS)**: an x86 operating system from power-on. A 512-byte assembly boot sector and a second-stage C loader read a FAT12 disk, switch from real to protected mode and launch a freestanding kernel.
+- **ByteFight 2026**: 4th of 154 teams in Georgia Tech's AI tournament. Real-time territory-control bot built on beam search, alpha-beta pruning, Zobrist hashing and SIMD evaluation.
+- **[L2 order book](https://github.com/michaelpeters-dev/woox_tgt_intro)**: reconstructs an in-memory ETH-USDT perpetuals book from WooX websocket deltas with Tokio and Tungstenite.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="28"/>
-</div>
+### Toolchain
 
----
+```text
+languages   Rust  C/C++  x86 assembly  Python  TypeScript  Swift  Kotlin  Java  SQL
+systems     MLIR/LLVM  WebAssembly  UniFFI  SIMD  Tokio  NASM  QEMU  CMake
+platform    Git  Docker  AWS  Neovim
+```
 
-## Tools & Technologies
+### Contact
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" height="28"/>
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-  <a href="https://www.instagram.com/michael_peters_10/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28"/></a>
-  <a href="https://discord.com/users/peters0085_82034"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&style=for-the-badge" height="28"/></a>
-  <a href="mailto:michaelcpeters115@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28"/></a>
-  <a href="https://www.linkedin.com/in/michael-peters-b497912a3/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="28"/></a>
-</div>
+[michaelpeters.tech](https://michaelpeters.tech) · [LinkedIn](https://www.linkedin.com/in/michaelcpeters) · [Email](mailto:michaelcpeters115@gmail.com)
