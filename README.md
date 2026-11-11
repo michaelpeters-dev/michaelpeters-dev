@@ -1,20 +1,10 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/michaelpeters-dev/michaelpeters-dev/output/card.svg" width="100%" alt="Terminal running neofetch for michael@gatech beside a spinning ASCII donut. Systems engineer at Georgia Tech working in Rust, C++ and x86 assembly; currently at Ditto, TGT Capital and Tinker Lab.">
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,py,ts,swift,kotlin,java,wasm,docker,aws,git,neovim&theme=dark" alt="Rust, C++, C, Python, TypeScript, Swift, Kotlin, Java, WebAssembly, Docker, AWS, Git, Neovim">
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelpeters-dev/michaelpeters-dev/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/michaelpeters-dev/michaelpeters-dev/output/snake.svg" width="100%" alt="Contribution graph being eaten by a snake">
-</picture>
-
-<br>
-
-[michaelpeters.tech](https://michaelpeters.tech) · [LinkedIn](https://www.linkedin.com/in/michaelcpeters) · [Email](mailto:michaelcpeters115@gmail.com)
-
-</div>
+<!--
+  The card is one generated image. To change it, edit INFO or TILES in
+  scripts/card.py, run `python3 scripts/card.py`, and commit the two files in assets/.
+-->
+<a href="https://michaelpeters.tech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+    <img src="assets/light.svg" width="100%" alt="Terminal output of neofetch for michael@gatech beside a spinning ASCII donut. Host: Georgia Tech, CS + Math, 2028. Kernel: Software Engineer Intern at Ditto. Systems: MLIR/LLVM, WebAssembly, SIMD, QEMU. Now at Ditto: query engine and interpreter in Rust. Now at TGT: SIMD L2 order books, 1,660 to 870 microseconds. Now at Tinker Lab: Qwerty quantum compiler on MLIR/LLVM. Languages: Rust, C++, C, x86 assembly, Python, TypeScript, Swift, Kotlin.">
+  </picture>
+</a>
