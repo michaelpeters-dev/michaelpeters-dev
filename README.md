@@ -5,11 +5,9 @@
 
 ### Work
 
-| | | |
-|:--|:--|:--|
-| **[Ditto](https://github.com/getditto)** | Software Engineer Intern | Multi-collection `UNION` for DQL, the query language of Ditto's offline-first sync platform. Wrote a Rust expression interpreter from scratch (lexer, parser, type checker, evaluator) and shipped it to iOS, Android and Web through UniFFI and WebAssembly, replacing three per-platform implementations. |
-| **[TGT Capital](https://github.com/gt-quant)** | Quantitative Developer | SIMD flat and ring L2 order books in Rust: update latency 121 → 103 µs at 50 levels and 1,660 → 870 µs at 200. Async exchange feed listeners and a Rust CatBoost inference pipeline on live book state. |
-| **[Tinker Lab](https://github.com/gt-tinker)** | Quantum Compilers Researcher | MLIR/LLVM work on the [Qwerty](https://github.com/gt-tinker/qwerty) compiler (CGO '25): a two's-complement subtraction op ([#57](https://github.com/gt-tinker/qwerty/pull/57)) and modular multiplication circuit synthesis ([#59](https://github.com/gt-tinker/qwerty/pull/59)), both merged upstream. |
+- **[Ditto](https://github.com/getditto)**, Software Engineer Intern. Multi-collection `UNION` for DQL, the query language of Ditto's offline-first sync platform. Wrote a Rust expression interpreter from scratch (lexer, parser, type checker, evaluator) and shipped it to iOS, Android and Web through UniFFI and WebAssembly, replacing three per-platform implementations.
+- **[TGT Capital](https://github.com/gt-quant)**, Quantitative Developer. SIMD flat and ring L2 order books in Rust: update latency 121 → 103 µs at 50 levels and 1,660 → 870 µs at 200. Async exchange feed listeners and a Rust CatBoost inference pipeline on live book state.
+- **[Tinker Lab](https://github.com/gt-tinker)**, Quantum Compilers Researcher. MLIR/LLVM work on the [Qwerty](https://github.com/gt-tinker/qwerty) compiler (CGO '25): a two's-complement subtraction op ([#57](https://github.com/gt-tinker/qwerty/pull/57)) and modular multiplication circuit synthesis ([#59](https://github.com/gt-tinker/qwerty/pull/59)), both merged upstream.
 
 ### Projects
 
